@@ -3,3 +3,9 @@
 body{
   background-color: papayawhip;
 }
+div{
+  margin: 100px;
+}
+.done{
+  text-decoration: line-through;
+}
